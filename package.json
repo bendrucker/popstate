@@ -1,0 +1,35 @@
+{
+  "name": "popstate",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Listen on popstate history events with Safari compatibility",
+  "license": "MIT",
+  "repository": "bendrucker/popstate",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "history",
+    "popstate",
+    "safari"
+  ],
+  "devDependencies": {
+    "dom-event-target": "~1.0.0",
+    "proxyquire": "~1.7.3",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "global": "~4.3.0",
+    "next-tick": "~0.2.2",
+    "window-load": "~1.0.0"
+  }
+}
