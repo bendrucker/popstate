@@ -1,7 +1,7 @@
 {
   "name": "popstate",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Listen on popstate history events with Safari compatibility",
   "license": "MIT",
   "repository": "bendrucker/popstate",
