@@ -1,4 +1,4 @@
-# popstate [![Build Status](https://travis-ci.org/bendrucker/popstate.svg?branch=master)](https://travis-ci.org/bendrucker/popstate)
+# popstate [![Build Status](https://travis-ci.org/bendrucker/popstate.svg?branch=master)](https://travis-ci.org/bendrucker/popstate) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/popstate.svg)](https://greenkeeper.io/)
 
 > Listen on popstate history events with Safari compatibility
 
